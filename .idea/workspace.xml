@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1283c92-74a9-4d5b-96fa-8f985e9dbef3" name="Changes" comment="update to match archetype">
-      <change beforePath="$PROJECT_DIR$/spring-lambda.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/teddycrane/App.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,13 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="enabledProfiles">
+      <list>
+        <option value="shaded-jar" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1zT6taHf4urSvrXPVacr7QljfPi" />
   <component name="ProjectViewState">
@@ -90,7 +96,7 @@
       <workItem from="1634159950360" duration="310000" />
       <workItem from="1634242771228" duration="619000" />
       <workItem from="1636568525849" duration="3133000" />
-      <workItem from="1636578829802" duration="547000" />
+      <workItem from="1636578829802" duration="848000" />
     </task>
     <task id="LOCAL-00002" summary="update gitignore, add idea project files">
       <created>1636578930435</created>
@@ -120,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636579356787</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update to match archetype">
+      <created>1636579628746</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1636579628746</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update to match archetype">
+      <created>1636579636627</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636579636627</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
