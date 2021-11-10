@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1283c92-74a9-4d5b-96fa-8f985e9dbef3" name="Changes" comment="fix app config">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/teddycrane/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teddycrane/App.java" afterDir="false" />
+    <list default="true" id="b1283c92-74a9-4d5b-96fa-8f985e9dbef3" name="Changes" comment="update to match archetype">
+      <change beforePath="$PROJECT_DIR$/spring-lambda.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/teddycrane/App.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -84,7 +90,7 @@
       <workItem from="1634159950360" duration="310000" />
       <workItem from="1634242771228" duration="619000" />
       <workItem from="1636568525849" duration="3133000" />
-      <workItem from="1636578829802" duration="230000" />
+      <workItem from="1636578829802" duration="547000" />
     </task>
     <task id="LOCAL-00002" summary="update gitignore, add idea project files">
       <created>1636578930435</created>
@@ -100,7 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636578971227</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="styling updates">
+      <created>1636579132202</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636579132202</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update to match archetype">
+      <created>1636579356787</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636579356787</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,7 +142,9 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="update gitignore, add idea project files" />
     <MESSAGE value="fix app config" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix app config" />
+    <MESSAGE value="styling updates" />
+    <MESSAGE value="update to match archetype" />
+    <option name="LAST_COMMIT_MESSAGE" value="update to match archetype" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
