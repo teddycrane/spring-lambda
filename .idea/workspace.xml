@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1283c92-74a9-4d5b-96fa-8f985e9dbef3" name="Changes" comment="update gitignore, add idea project files">
+    <list default="true" id="b1283c92-74a9-4d5b-96fa-8f985e9dbef3" name="Changes" comment="fix app config">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/teddycrane/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/teddycrane/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -84,7 +84,7 @@
       <workItem from="1634159950360" duration="310000" />
       <workItem from="1634242771228" duration="619000" />
       <workItem from="1636568525849" duration="3133000" />
-      <workItem from="1636578829802" duration="116000" />
+      <workItem from="1636578829802" duration="230000" />
     </task>
     <task id="LOCAL-00002" summary="update gitignore, add idea project files">
       <created>1636578930435</created>
@@ -93,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636578930435</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix app config">
+      <created>1636578971227</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636578971227</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +121,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="update gitignore, add idea project files" />
-    <option name="LAST_COMMIT_MESSAGE" value="update gitignore, add idea project files" />
+    <MESSAGE value="fix app config" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix app config" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
